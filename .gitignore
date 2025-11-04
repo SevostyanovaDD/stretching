@@ -1,6 +1,6 @@
 .idea/
 # dependencies
-/node_modules
+stretching/node_modules
 /.pnp
 .pnp.js
 
